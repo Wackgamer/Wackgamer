@@ -1,4 +1,13 @@
-### Hi there 👋
+### Bienvenidos a mi Perfil 👋
+
+Sí, ese soy yo, Wackgamer.
+
+😎 Humano que pudo respirar.
+🎮 Me la vivo jugando.
+🥵 Tengo canal de YouTube.
+🕒 GMT-3 porque soy de Argentina.
+👉 linktr.ee/wackgamer Ahí están mis redes.
+
 
 <!--
 **Wackgamer/Wackgamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
