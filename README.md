@@ -15,7 +15,7 @@ Si estas leyendo esto es porque sabes que me gusta programar, no es un secreto, 
 - Discord: discord.eclatmc.net.ar
 - Mail: contacto@eclatmc.net.ar
 
-- 🌎Idiomas que hablo: Ingles y Español.
+- 🌎Idiomas que hablo: Inglés y Español.
 
 <!--
 **Wackgamer/Wackgamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
