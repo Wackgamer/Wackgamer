@@ -6,7 +6,7 @@ Sí, ese soy yo, Wackgamer.
 - 🎮 Me la vivo jugando.
 - 🥵 Tengo canal de YouTube.
 - 🕒 GMT-3 porque soy de Argentina.
-- 👉 linktr.ee/wackgamer Ahí están mis redes.
+- 👉 https://linktr.ee/wackgamer Ahí están mis redes.
 
 Si estas leyendo esto es porque sabes que me gusta programar, no es un secreto, es una realidad desde hace muchos años atras.
 
