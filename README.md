@@ -17,6 +17,20 @@ Si estas leyendo esto es porque sabes que me gusta programar, no es un secreto, 
 
 - 🌎Idiomas que hablo: Inglés y Español.
 
+# Hall o' fame
+
+![image](https://user-images.githubusercontent.com/68253463/219922912-09bd9660-d74b-48bc-8621-fd9be8bf95f4.png)
+
+Logrado el 25 de Mayo de 2016
+
+![image](https://user-images.githubusercontent.com/68253463/219922934-20bc6da4-6755-49b3-a3c7-2eb8002d4558.png)
+
+Logrado el 2 de Agosto de 2019
+
+![2b5b8c48-2462-44eb-ad96-f1a4b086cfbf](https://user-images.githubusercontent.com/68253463/219922838-4ba93722-66ee-4bb0-95c8-3697d0853f53.png)
+
+Logrado el 3 de Agosto de 2020
+
 <!--
 **Wackgamer/Wackgamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
