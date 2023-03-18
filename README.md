@@ -17,7 +17,7 @@ Si estas leyendo esto es porque sabes que me gusta programar, no es un secreto, 
 
 - 🌎Idiomas que hablo: Inglés y Español.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mau2003&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wackgamer&layout=compact)
 
 # Hall o' fame
 
