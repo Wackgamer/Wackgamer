@@ -17,6 +17,8 @@ Si estas leyendo esto es porque sabes que me gusta programar, no es un secreto, 
 
 - 🌎Idiomas que hablo: Inglés y Español.
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mau2003&layout=compact)
+
 # Hall o' fame
 
 ![image](https://user-images.githubusercontent.com/68253463/219922912-09bd9660-d74b-48bc-8621-fd9be8bf95f4.png)
