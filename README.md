@@ -34,6 +34,11 @@ Logrado el 3 de Agosto de 2020
 
 Logrado el 19 de Febrero de 2023
 
+![image](https://github.com/Wackgamer/Wackgamer/assets/68253463/748f7204-170b-437c-8924-217556f4cef5)
+
+Logrado el 18 de Diciembre de 2023
+
+
 <!--
 **Wackgamer/Wackgamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
